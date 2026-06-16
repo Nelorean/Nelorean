@@ -1,8 +1,8 @@
 # Olá, eu sou o Victor
 
-Desenvolvedor em formação com foco em backend e fullstack, estudando Node.js, Express, PostgreSQL, Docker, testes automatizados e React.
+Desenvolvedor em formação com foco em backend e fullstack, construindo projetos com Node.js, Express, PostgreSQL, Docker, testes automatizados e React.
 
-Tenho criado projetos para praticar APIs REST, autenticação, bancos relacionais, documentação, deploy e integração entre frontend e backend.
+Meu foco atual é desenvolver projetos práticos para consolidar APIs REST, autenticação, bancos relacionais, documentação, deploy e integração entre frontend e backend.
 
 ## Projeto em destaque
 
